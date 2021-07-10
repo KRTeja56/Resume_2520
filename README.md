@@ -8,19 +8,19 @@
 
 ### Educational Details
 **B.Tech**
--college name:_JNTUK KAKINADA_ <br>
--Branch:chemical engineering <br>
--year:2015-2019 <br>
-_Address:kaiknada <br>
+- college name:_JNTUK KAKINADA_ <br>
+- Branch:chemical engineering <br>
+- year:2015-2019 <br>
+- Address:kaiknada <br>
 
 **INTERMEDIATE**
--college name:_SRI CHAITANYA JR COLLEGE_ <br>
--Branch: MPC <br>
--year:2013-2015 <br>
-_Address:Visakhapatnam <br>
+- college name:_SRI CHAITANYA JR COLLEGE_ <br>
+- Branch: MPC <br>
+- year:2013-2015 <br>
+- Address:Visakhapatnam <br>
 
 **SSC**
--college name:_MOHAN SECONDARY SCHOOL_ <br>
--Branch:English Medium <br>
--year:2013 <br>
-_Address:Visakhapatnam <br>
+- college name:_MOHAN SECONDARY SCHOOL_ <br>
+- Branch:English Medium <br>
+- year:2013 <br>
+- Address:Visakhapatnam <br>
