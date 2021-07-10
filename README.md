@@ -5,6 +5,7 @@
 - mail id:krteja56@gmail.com <br>
 - phone:+91 8309560682 <br>
 - Address:Visakhapatnam <br>
+
 ### Educational Details
 **B.Tech**
 -college name:_JNTUK KAKINADA_ <br>
