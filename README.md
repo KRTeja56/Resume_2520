@@ -11,7 +11,7 @@
 - college name:_JNTUK KAKINADA_ <br>
 - Branch:chemical engineering <br>
 - year:2015-2019 <br>
-- Address:kaiknada <br>
+- Address:kakinada <br>
 
 **INTERMEDIATE**
 - college name:_SRI CHAITANYA JR COLLEGE_ <br>
